@@ -61,7 +61,7 @@ limebeta.dev@gmail.com
 ### 非 Root 端末
 
 > [!WARNING]
-> 非 root 端末では､ 以下の問題があります  
+> 非 root 端末では､ 以下の問題があります  <br>
  ~~ Google アカウント (ドライブ) を使用したトーク履歴の復元ができない ~~
 
 >   ([この方法](https://github.com/Chipppppppppp/LIME/issues/50#issuecomment-2174842592) でログインすれば可能)
