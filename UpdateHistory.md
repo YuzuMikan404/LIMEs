@@ -2,6 +2,12 @@
 
 ## 1.33.0.beta
 
+remove ads の修正
+
+
+
+## 1.33.0.beta
+
 Merge remote-tracking branch 'origin/master'
 
 
