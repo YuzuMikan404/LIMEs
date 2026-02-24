@@ -62,7 +62,8 @@ limebeta.dev@gmail.com
 
 > [!WARNING]
 > 非 root 端末では､ 以下の問題があります  
->  ~~Google アカウント (ドライブ) を使用したトーク履歴の復元ができない ~~
+ ~~ Google アカウント (ドライブ) を使用したトーク履歴の復元ができない ~~
+
 >   ([この方法](https://github.com/Chipppppppppp/LIME/issues/50#issuecomment-2174842592) でログインすれば可能)
 > 新しくTokenを自分で取得する[この方法](https://github.com/areteruhiro/LIMEs/blob/master/TalkBackUp.md)もあります
 > - コインの購入が不可  
