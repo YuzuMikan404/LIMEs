@@ -1,5 +1,13 @@
 
 
+## 1.33.2.bata
+
+既読を付けるボタンの作成
+非 Root トークバックアップ、復元の別オプション化と設定ボタンの追加
+removePremiumRecommendationの改善
+
+
+
 ## 1.33.1.beta
 
 remove ads の修正
