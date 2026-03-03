@@ -1,5 +1,19 @@
 
 
+## 1.34.0.bata
+
+検索時キーワードを1文字でもできるようにするminimumAcceptableKeywordLength機能の追加
+
+16.2.0で以下の機能の対応
+removeNaviAichat系
+写真のリネーム保存機能
+OriginalToneの動的検出機能
+RemoveVoiceRecord_Hook_aの対応
+
+自動で着信拒否にするは未対応
+
+
+
 ## 1.33.2.bata
 
 既読を付けるボタンの作成
