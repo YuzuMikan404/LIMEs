@@ -1,5 +1,20 @@
 
 
+## 1.34.beta
+
+[15.12.2 Only]
+- LIMEsTalkBackUpRestore[15.12.2]
+　LIMEsオリジナルのトークバックアップ機能の作成
+ -Request by 不要那麼凶好不好？ for Discord
+-GetToken(FCM)の際contextが取得する前に、getSharedPreferencesが行われていたので、取得を最適化
+- Reported by Kotobuki (寿) for Discord
+
+[All Versions: Function Fix]
+NotificationReactionで誤った画像が取得されるのを修正
+- Report by kamoshita for Discord
+
+
+
 ## 1.34.2.1beta
 
 URI SETTING FIX
