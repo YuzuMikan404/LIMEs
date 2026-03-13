@@ -2,6 +2,12 @@
 
 ## 1.34.beta
 
+yml
+
+
+
+## 1.34.beta
+
 [Yml]
 NPatchもパッチ済みに配布
 
