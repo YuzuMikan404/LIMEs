@@ -2,6 +2,17 @@
 
 ## 1.34.beta
 
+[Yml]
+NPatchもパッチ済みに配布
+
+[IMEsTalkBackUpRestore(dev now)[15.12.2]]
+
+- 完全なバックアップを行えないのを修正(May be)
+
+
+
+## 1.34.beta
+
 [15.12.2 Only]
 - LIMEsTalkBackUpRestore[15.12.2]
 　LIMEsオリジナルのトークバックアップ機能の作成
