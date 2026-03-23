@@ -1,5 +1,11 @@
 
 
+## 1.36.3.0.3.alpha
+
+reaction通知のバグ治すよ
+
+
+
 ## 1.36.3.0.2alpha
 
 Merge remote-tracking branch 'origin/master'
