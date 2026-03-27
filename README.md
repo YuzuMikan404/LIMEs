@@ -63,14 +63,13 @@ limebeta.dev@gmail.com
 > [!WARNING]
 > 非 root 端末では､ 以下の問題があります  <br>
 
-Google アカウント (ドライブ) を使用したトーク履歴の復元ができない
+Google アカウント (ドライブ) を使用したトーク履歴の復元ができない→GMS Coreパッチを利用することによって可能になりました
 >   ([この方法](https://github.com/Chipppppppppp/LIME/issues/50#issuecomment-2174842592) でログインすれば可能)
-> 新しくTokenを自分で取得する[この方法](https://github.com/areteruhiro/LIMEs/blob/master/TalkBackUp.md)もあります
 > - コインの購入が不可  
 > - LINE Pay の一部の機能が使用不可 
-> - ログイン時のエラーが発生する可能性が高い
+> - ログイン時のエラーが発生する可能性が高い（BANの可能性も高いです、必ずログイン時はスコープをオフにしてください）
 > - 環境によりLINE通知が届かないことがある
->    ([この方法](https://github.com/areteruhiro/LIMEs/blob/master/LSPatch-Notify.md) でログインすれば解消される可能性がある)
+>    ([この方法](https://github.com/areteruhiro/LIMEs/blob/master/LSPatch-Notify.md) でログインすれば解消される)
 
 ## 概要
 
