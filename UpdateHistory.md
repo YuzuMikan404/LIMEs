@@ -2,6 +2,12 @@
 
 ## 1.36.4.3.alpha
 
+Main Activityトグルが黒くなるのを修正
+
+
+
+## 1.36.4.3.alpha
+
 All
 EmbedOptions で特定の端末の場合トグルが黒くなるのを修正
 リソースオプション読み込みをSharedPreferencesに保存に変更
